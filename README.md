@@ -4,7 +4,7 @@ that formatting Date objects as strings
 
 # Installation
 
-> npm i aierse-date-format
+> npm i @aierse/date-format
 
 # Usage
 
@@ -12,7 +12,7 @@ that formatting Date objects as strings
 > Use the space bar to separate dates and times.
 
 ```js
-import dateFormat from "aierse-date-format";
+import dateFormat from "@aierse/date-format";
 
 const now = new Date("2023-09-14 12:20:30");
 
