@@ -1,9 +1,10 @@
 {
   "name": "aierse-date-format",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Formatting Date objects as strings",
   "author": "Aierse <dbsgur2008@gmail.com>",
   "readmeFilename": "README.md",
+  "main": "lib/index.js",
   "files": [
     "lib"
   ],
