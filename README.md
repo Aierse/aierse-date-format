@@ -1,4 +1,4 @@
-# date-format
+# @aierse/date-format
 
 that formatting Date objects as strings
 
@@ -19,7 +19,8 @@ const type1 = dateFormat(now); // 2023-09-14
 const type2 = dateFormat(now, "yyyy"); // 2023
 const type3 = dateFormat(now, "yyyy/MM/dd"); // 2023/09/14
 const type4 = dateFormat(now, "MM-dd-yyyy"); // 09-14-2023
-const type1 = dateFormat(now, "M-d-yyyy"); // 9-14-2023
-const type1 = dateFormat(now, "yyyy-MM-dd hh:mm:ss"); // 2023-09-14 12:20:30
-const type1 = dateFormat(now, "hh:mm"); // 12:20
+const type5 = dateFormat(now, "M-d-yyyy"); // 9-14-2023
+const type6 = dateFormat(now, "yyyy-MM-dd hh:mm:ss"); // 2023-09-14 12:20:30
+const type7 = dateFormat(now, "hh:mm"); // 12:20
+const type8 = dateFormat(now, "hh:mm yyyy-MM-dd"); // 12:20 2023-09-14
 ```
