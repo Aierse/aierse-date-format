@@ -9,7 +9,6 @@ that formatting Date objects as strings
 # Usage
 
 > Do not use the spacebar as a separator.
-> Use the space bar to separate dates and times.
 
 ```js
 import dateFormat from "@aierse/date-format";
