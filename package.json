@@ -1,0 +1,17 @@
+{
+  "name": "aierse-date-format",
+  "version": "1.0.0",
+  "description": "This is date format library",
+  "author": "Aierse",
+  "license": "MIT",
+  "keywords": [
+    "date",
+    "format",
+    "time",
+    "yyyy",
+    "yyyy-MM",
+    "yyyy-MM-dd",
+    "hh:mm",
+    "hh:mm:ss"
+  ]
+}
