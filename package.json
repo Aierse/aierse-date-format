@@ -1,6 +1,6 @@
 {
-  "name": "aierse-date-format",
-  "version": "1.0.2",
+  "name": "@aierse/date-format",
+  "version": "1.0.0",
   "description": "Formatting Date objects as strings",
   "author": "Aierse <dbsgur2008@gmail.com>",
   "readmeFilename": "README.md",
@@ -10,9 +10,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Aierse/npm-dateFormat"
+    "url": "https://github.com/Aierse/aierse-date-format"
   },
-  "bugs": "https://github.com/Aierse/npm-dateFormat/issues",
+  "bugs": "https://github.com/Aierse/aierse-date-format/issues",
   "license": "MIT",
   "keywords": [
     "date",
